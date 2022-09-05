@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "signal-2.0",
-    "slug": "signal-2.0",
+    "slug": "signal-v2",
+    "description": "your community chatting app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.priyu007.signalv2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
